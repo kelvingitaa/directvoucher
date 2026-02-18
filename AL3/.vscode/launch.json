@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BC270 Local",
+            "type": "al",
+            "request": "launch",
+            "server": "http://localhost:8080",
+            "serverInstance": "BC270",
+            "authentication": "Windows",
+            "startupObjectType": "Page",
+            "startupObjectId": 22
+        }
+    ]
+}
